@@ -19,7 +19,7 @@ Apache Spark project for Database II course
 
 - [ ] *Ζητούμενο 3:* Για τα Q1-Q5 υλοποίηση λύσης: μια με `RDD API` και μια με `SPARK SQL` 
 
-  - [ ] | Queries | RDD  | Spark SQL |
+  - | Queries | RDD  | Spark SQL |
     | :-----: | :--: | :-------: |
     |   Q1    | [ ]  |    [ ]    |
     |   Q2    | [ ]  |    [ ]    |
