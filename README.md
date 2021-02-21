@@ -13,7 +13,7 @@ Apache Spark project for Database II course
 
 
 
-- [ ] *Ζητούμενο 1:* Φόρτωση αρχείων csv στο hdfs
+- [x] *Ζητούμενο 1:* Φόρτωση αρχείων csv στο hdfs
 
 - [ ] *Ζητούμενο 2:* Μετατροπή αρχείων csv σε parquet για επεξεργασία (οδηγίες [εδώ](https://parquet.apache.org/) και [εδώ](https://spark.apache.org/docs/2.4.4/sql-programming-guide.html#parquet-files)). Μετα από αυτό θελουμε 6 αρχεία στο hdfs (3 csv, 3 parquet)
 
