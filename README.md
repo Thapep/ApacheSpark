@@ -17,7 +17,7 @@ Apache Spark project for Database II course
 
 - [ ] *Ζητούμενο 2:* Μετατροπή αρχείων csv σε parquet για επεξεργασία (οδηγίες [εδώ](https://parquet.apache.org/) και [εδώ](https://spark.apache.org/docs/2.4.4/sql-programming-guide.html#parquet-files)). Μετα από αυτό θελουμε 6 αρχεία στο hdfs (3 csv, 3 parquet)
 
-- [ ] *Ζητούμενο 3:* Για τα Q1-Q5 υλοποίηση λύσης: μια με `RDD API` και μια με `SPARK SQL` 
+- [ ] *Ζητούμενο 3:* Για τα Q1-Q5 υλοποίηση λύσης: μια με `RDD API` και μια με `Spark SQL` Το `RDD` θα γίνει πάνω στα csv ενώ το `Spark SQL` πάνω στα csv και στα parquet 
 
   - | Queries | RDD  | Spark SQL |
     | :-----: | :--: | :-------: |
