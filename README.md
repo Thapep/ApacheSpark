@@ -22,7 +22,7 @@ Apache Spark project for Database II course
   - | Queries | RDD  | Spark SQL |
     | :-----: | :--: | :-------: |
     |   Q1    | :heavy_check_mark:  |    [ ]    |
-    |   Q2    | [ ]  |    [ ]    |
+    |   Q2    | :heavy_check_mark:  |    [ ]    |
     |   Q3    | [ ]  |    [ ]    |
     |   Q4    | [ ]  |    [ ]    |
     |   Q5    | [ ]  |    [ ]    |
