@@ -21,7 +21,7 @@ Apache Spark project for Database II course
 
   - | Queries | RDD  | Spark SQL |
     | :-----: | :--: | :-------: |
-    |   Q1    | [ ]  |    [ ]    |
+    |   Q1    | [x]  |    [ ]    |
     |   Q2    | [ ]  |    [ ]    |
     |   Q3    | [ ]  |    [ ]    |
     |   Q4    | [ ]  |    [ ]    |
