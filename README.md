@@ -19,12 +19,12 @@ Apache Spark project for Database II course
 
 - [ ] *Ζητούμενο 3:* Για τα Q1-Q5 υλοποίηση λύσης: μια με `RDD API` και μια με `Spark SQL` Το `RDD` θα γίνει πάνω στα csv ενώ το `Spark SQL` πάνω στα csv και στα parquet 
 
-  - | Queries | RDD  | Spark SQL |
+    | Queries | RDD  | Spark SQL |
     | :-----: | :--: | :-------: |
     |   Q1    | :heavy_check_mark:  |    [ ]    |
     |   Q2    | :heavy_check_mark:  |    [ ]    |
     |   Q3    | :heavy_check_mark:  |    [ ]    |
-    |   Q4    | [ ]  |    [ ]    |
+    |   Q4    | :heavy_check_mark:  |    [ ]    |
     |   Q5    | [ ]  |    [ ]    |
 
 - [ ] *Ζητούμενο 4:* Εκτέλεση των παραπάνω queries:
