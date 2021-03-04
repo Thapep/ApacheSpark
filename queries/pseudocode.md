@@ -40,7 +40,7 @@ reduce1(user, list_of_ratings_aces):
     emit(user,average)
     
 map2(user,average):
-	if average < 3: return (1,1)
+	if average <= 3: return (1,1)
 	else return (2,1)
 
 reduce2(id,list_of_aces):
