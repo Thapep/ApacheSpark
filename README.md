@@ -13,19 +13,19 @@ Apache Spark project for Database II course
 
 
 
-- [ ] *Ζητούμενο 1:* Φόρτωση αρχείων csv στο hdfs
+- [x] *Ζητούμενο 1:* Φόρτωση αρχείων csv στο hdfs
 
-- [ ] *Ζητούμενο 2:* Μετατροπή αρχείων csv σε parquet για επεξεργασία (οδηγίες [εδώ](https://parquet.apache.org/) και [εδώ](https://spark.apache.org/docs/2.4.4/sql-programming-guide.html#parquet-files)). Μετα από αυτό θελουμε 6 αρχεία στο hdfs (3 csv, 3 parquet)
+- [x] *Ζητούμενο 2:* Μετατροπή αρχείων csv σε parquet για επεξεργασία (οδηγίες [εδώ](https://parquet.apache.org/) και [εδώ](https://spark.apache.org/docs/2.4.4/sql-programming-guide.html#parquet-files)). Μετα από αυτό θελουμε 6 αρχεία στο hdfs (3 csv, 3 parquet)
 
-- [ ] *Ζητούμενο 3:* Για τα Q1-Q5 υλοποίηση λύσης: μια με `RDD API` και μια με `SPARK SQL` 
+- [ ] *Ζητούμενο 3:* Για τα Q1-Q5 υλοποίηση λύσης: μια με `RDD API` και μια με `Spark SQL` Το `RDD` θα γίνει πάνω στα csv ενώ το `Spark SQL` πάνω στα csv και στα parquet 
 
-  - [ ] | Queries | RDD  | Spark SQL |
+    | Queries | RDD  | Spark SQL |
     | :-----: | :--: | :-------: |
-    |   Q1    | [ ]  |    [ ]    |
-    |   Q2    | [ ]  |    [ ]    |
-    |   Q3    | [ ]  |    [ ]    |
-    |   Q4    | [ ]  |    [ ]    |
-    |   Q5    | [ ]  |    [ ]    |
+    |   Q1    | :heavy_check_mark:  |    [ ]    |
+    |   Q2    | :heavy_check_mark:  |    [ ]    |
+    |   Q3    | :heavy_check_mark:  |    [ ]    |
+    |   Q4    | :heavy_check_mark:  |    [ ]    |
+    |   Q5    | :heavy_check_mark:  |    [ ]    |
 
 - [ ] *Ζητούμενο 4:* Εκτέλεση των παραπάνω queries:
 
@@ -49,5 +49,5 @@ Apache Spark project for Database II course
 
 - [ ] *Ζητούμενο 1:* Υλοποιείστε το broadcast join στο RDD API (Map Reduce)
 - [ ] *Ζητούμενο 2:* Υλοποιείστε το repartition join στο RDD API (Map Reduce)
-- [ ] *Ζητούμενο 3:* Απομονώστε 100 γραμμές του πίνακα movie genres σε ένα άλλο CSV. Συγκρίνεται τους χρόνους εκτέλεσης των δύο υλοποιήσεων σας για την συνένωση των 100 γραμμών με τον πίνακα ratings και συγκρίνετε τα αποτελεσμάτων. Τι παρατηρείται? Γιατί?
-- [ ] *Ζητούμενο 4:* Συμπλήρωση του κώδικα της αναφοράς στη σελίδα 6 για την απανεργοποίηση του join από τον βελτιστοποιητή 
+- [ ] *Ζητούμενο 3:* Απομονώστε 100 γραμμές του πίνακα movie genres σε ένα άλλο CSV. Συγκρίνετε τους χρόνους εκτέλεσης των δύο υλοποιήσεων σας για την συνένωση των 100 γραμμών με τον πίνακα ratings και συγκρίνετε τα αποτελέσματα. Τι παρατηρείτε? Γιατί?
+- [ ] *Ζητούμενο 4:* Συμπλήρωση του κώδικα της αναφοράς στη σελίδα 6 για την απενεργοποίηση του join από τον βελτιστοποιητή 
