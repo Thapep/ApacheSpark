@@ -25,7 +25,7 @@ Apache Spark project for Database II course
     |   Q2    | :heavy_check_mark:  |    :heavy_check_mark:    |
     |   Q3    | :heavy_check_mark:  |    :heavy_check_mark:    |
     |   Q4    | :heavy_check_mark:  |    :heavy_check_mark:    |
-    |   Q5    | :heavy_check_mark:  |    [ ]    |
+    |   Q5    | :heavy_check_mark:  |    :heavy_check_mark:    |
 
 - [ ] *Ζητούμενο 4:* Εκτέλεση των παραπάνω queries:
 
