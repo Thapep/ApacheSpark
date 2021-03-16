@@ -27,7 +27,7 @@ Apache Spark project for Database II course
     |   Q4    | :heavy_check_mark:  |    :heavy_check_mark:    |
     |   Q5    | :heavy_check_mark:  |    :heavy_check_mark:    |
 
-- [ ] *Ζητούμενο 4:* Εκτέλεση των παραπάνω queries:
+- [x] *Ζητούμενο 4:* Εκτέλεση των παραπάνω queries:
 
   - [x] Map Reduce Queries – RDD API
   - [ ] Spark SQL με είσοδο το csv αρχείο (συμπεριλάβετε infer schema)
