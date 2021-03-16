@@ -27,12 +27,12 @@ Apache Spark project for Database II course
     |   Q4    | :heavy_check_mark:  |    :heavy_check_mark:    |
     |   Q5    | :heavy_check_mark:  |    :heavy_check_mark:    |
 
-- [ ] *Ζητούμενο 4:* Εκτέλεση των παραπάνω queries:
+- [x] *Ζητούμενο 4:* Εκτέλεση των παραπάνω queries:
 
   - [x] Map Reduce Queries – RDD API
-  - [ ] Spark SQL με είσοδο το csv αρχείο (συμπεριλάβετε infer schema)
-  - [ ] Spark SQL με είσοδο το parquet αρχείο
-  - [ ] Δώστε τους χρόνους εκτέλεσης σε ένα ραβδόγραμμα, ομαδοποιημένους ανά Ερώτημα Σχολιάστε τα αποτελέσματα σε κάθε query. Τι παρατηρείται με τη χρήση του parquet ? Γιατί δεν χρησιμοποιείται το infer schema?
+  - [x] Spark SQL με είσοδο το csv αρχείο (συμπεριλάβετε infer schema)
+  - [x] Spark SQL με είσοδο το parquet αρχείο
+  - [x] Δώστε τους χρόνους εκτέλεσης σε ένα ραβδόγραμμα, ομαδοποιημένους ανά Ερώτημα Σχολιάστε τα αποτελέσματα σε κάθε query. Τι παρατηρείται με τη χρήση του parquet ? Γιατί δεν χρησιμοποιείται το infer schema?
 
 
 
