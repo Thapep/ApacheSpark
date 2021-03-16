@@ -6,6 +6,8 @@
 
 <h4 style="text-align:center;">Εξαμηνιαία Εργασία</h4>
 
+<h4 style="text-align:center;">Χρήση του Apache Spark στις Βάσεις Δεδομένων</h4>
+
 <h4 style="text-align:center;">Ακαδημαϊκό Έτος 2020-2021</h4>
 
 <h4 style="text-align:center;">Κούστας Κωνσταντίνος - 03115179</h4>
