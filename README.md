@@ -21,11 +21,11 @@ Apache Spark project for Database II course
 
     | Queries | RDD  | Spark SQL |
     | :-----: | :--: | :-------: |
-    |   Q1    | :heavy_check_mark:  |    [ ]    |
-    |   Q2    | :heavy_check_mark:  |    [ ]    |
-    |   Q3    | :heavy_check_mark:  |    [ ]    |
-    |   Q4    | :heavy_check_mark:  |    [ ]    |
-    |   Q5    | :heavy_check_mark:  |    [ ]    |
+    |   Q1    | :heavy_check_mark:  |    :heavy_check_mark:    |
+    |   Q2    | :heavy_check_mark:  |    :heavy_check_mark:    |
+    |   Q3    | :heavy_check_mark:  |    :heavy_check_mark:    |
+    |   Q4    | :heavy_check_mark:  |    :heavy_check_mark:    |
+    |   Q5    | :heavy_check_mark:  |    :heavy_check_mark:    |
 
 - [ ] *Ζητούμενο 4:* Εκτέλεση των παραπάνω queries:
 
@@ -50,4 +50,4 @@ Apache Spark project for Database II course
 - [ ] *Ζητούμενο 1:* Υλοποιείστε το broadcast join στο RDD API (Map Reduce)
 - [ ] *Ζητούμενο 2:* Υλοποιείστε το repartition join στο RDD API (Map Reduce)
 - [ ] *Ζητούμενο 3:* Απομονώστε 100 γραμμές του πίνακα movie genres σε ένα άλλο CSV. Συγκρίνετε τους χρόνους εκτέλεσης των δύο υλοποιήσεων σας για την συνένωση των 100 γραμμών με τον πίνακα ratings και συγκρίνετε τα αποτελέσματα. Τι παρατηρείτε? Γιατί?
-- [ ] *Ζητούμενο 4:* Συμπλήρωση του κώδικα της αναφοράς στη σελίδα 6 για την απενεργοποίηση του join από τον βελτιστοποιητή 
+- [x] *Ζητούμενο 4:* Συμπλήρωση του κώδικα της αναφοράς στη σελίδα 6 για την απενεργοποίηση του join από τον βελτιστοποιητή 
