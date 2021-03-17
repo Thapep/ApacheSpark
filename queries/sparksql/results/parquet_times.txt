@@ -1,0 +1,5 @@
+q1_sparksql_parquet 17.7742121219635
+q2_sparksql_parquet 35.41659474372864
+q3_sparksql_parquet 41.31655311584473
+q4_sparksql_parquet 18.80320143699646
+q5_sparksql_parquet 106.39897274971008
