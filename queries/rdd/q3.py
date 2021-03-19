@@ -24,7 +24,7 @@ if __name__ == "__main__":
 #       |          |                        |
     ratings = sc.textFile("hdfs://master:9000/ratings.csv")\
                 .map(lambda line: split_complex(line))\
-                .filter(lambda line: float(line[2])!=0.0)\
+                .filter(lambda line: float(line[2])!=None)\
                 .map(lambda line: (line[1],(float(line[2]),1)))\
                 .reduceByKey(f1)\
                 .reduceByKey(f2)
@@ -35,7 +35,7 @@ if __name__ == "__main__":
 #      |                  |
     genres = sc.textFile("hdfs://master:9000/movie_genres.csv")\
                .map(lambda line: split_complex(line))\
-               .map(lambda line: (line[0],line[1]))
+               .map(lambda line: (line[0],line[1])).distinct()
     
 #############################################################################################################
 #      |      0                    1                     |
